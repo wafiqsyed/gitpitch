@@ -54,11 +54,11 @@ containerization platform.
 
 ## Is GitPitch for you?
 
-If you ever find yourself needing to present a concept, design, library, framework, product, service, or even course work:
+If you ever find yourself needing to present a concept, design, library, framework, product, service, training materials, or educational course work:
 
 - To colleagues, clients or customers
 - At meetups or conferences
-- Or to student classes
+- At training events or teaching sessions
 
 Then GitPitch is for you. Simply capture your ideas in Markdown and let GitPitch automatically turn those ideas into compelling, responsive, online and offline slideshow presentations.
 
