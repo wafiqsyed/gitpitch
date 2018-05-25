@@ -66,11 +66,12 @@ Then GitPitch is for you. Simply capture your ideas in Markdown and let GitPitch
 
 ## How does GitPitch work?
 
-GitPitch presentations are powered by the amazing [reveal.js](https://github.com/hakimel/reveal.js) presentation framework. But with GitPitch there is nothing to download. Nothing to install. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket. Or your instance of GitHub Enterprise, GitLab CE, GitBucket, Gitea, or Gogs.
+GitPitch presentations are powered by the amazing [reveal.js](https://github.com/hakimel/reveal.js) presentation framework. But with GitPitch there is nothing to download. Nothing to install. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket. Or a self-hosted instance of GitHub Enterprise, GitLab CE, GitBucket, Gitea, or Gogs.
 
 ![TERMINAL](images/gp-terminal.png)
 
-No more Keynote. No more PowerPoint. Just Markdown. Then git-commit on any branch within a public GitHub, GitLab, Bitbucket, GitBucket, Gitea, or Gogs repo.
+No more Keynote. No more PowerPoint. Just Markdown. Then git-commit and push on
+any branch within a public GitHub, GitLab, Bitbucket, GitBucket, Gitea, or Gogs repo.
 
 ## GitPitch slideshow presentations are compelling
 
