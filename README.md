@@ -5,6 +5,7 @@
 #### WEBSITE: [www.gitpitch.com](https://gitpitch.com) | HOW-TO : [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki) | TWITTER: [@gitpitch](https://twitter.com/gitpitch)
 
 - [What is GitPitch?](#what-is-gitpitch)
+- [What is GitPitch Pro?](#what-is-gitpitch-pro)
 - [Is GitPitch for you?](#is-gitpitch-for-you)
 - [How does GitPitch work?](#how-does-gitpitch-work)
 - [Compelling Presentations](#gitpitch-slideshow-presentations-are-compelling)
@@ -18,13 +19,34 @@
 
 ## What is GitPitch?
 
-GitPitch is a service that turns **[PITCHME.md](https://gitpitch.com/#gitpitch-pitchme-markdown)** markdown into online and offline, interactive slideshows. You can use it to promote, pitch or present absolutely anything.
+GitPitch is a markdown presentation service for everyone on Git. You can use it
+to promote, pitch or present absolutely anything using the tools you already
+know and love - Markdown + Git.
 
-Each slideshow presentation is made instantly available online just as soon as you git-commit and push **PITCHME.md** on any branch within a public [GitHub, GitLab, Bitbucket, GitBucket, Gitea, or Gogs](https://github.com/gitpitch/gitpitch/wiki/Git-Repo-Services) repo.
+The service introduces a new convention for Git users, called **PITCHME.md**.
+The GitPitch server turns **PITCHME.md** markdown files found within any public
+or private repo into online and offline, interactive slideshows.
 
-![URL](images/gp-url.jpg)
+GitPitch is an open source project so you can fork, clone, and modify the source.
+You can find detailed build instructions [here](https://github.com/gitpitch/gitpitch/wiki/Server-Build-Instructions).
+You can also submit bug, feature and pull-requests on this repo. If you like
+this project please show your support with a [GitHub star](https://github.com/gitpitch/gitpitch/stargazers). Much appreciated.
 
-GitPitch is an open source project so you can fork, clone, and modify the source. You can find detailed build instructions [here](https://github.com/gitpitch/gitpitch/wiki/Server-Build-Instructions). You can also submit bug, feature and pull-requests on this repo. If you like this project please show your support with a [GitHub star](https://github.com/gitpitch/gitpitch/stargazers). Much appreciated.
+## What is GitPitch Pro?
+
+GitPitch Pro is the GitPitch service hosted on [gitpitch.com](https://gitpitch.com).
+
+GitPitch Pro offers a wide range of [free](https://gitpitch.com/features) and
+enhanced [subscription](https://gitpitch.com/pro-features) features, including
+[GitPitch Desktop](https://gitpitch.com/desktop) for local development, live
+previews, and presenting directly on your Linux, Windows, or OSX desktop.
+
+GitPitch Pro is also available as [GitPitch Enterprise](https://gitpitch.com/pricing)
+for on-premises deployment with seamless integration for GitHub Enterprise,
+GitLab, Bitbucket, GitBucket, Gitea, and Gogs servers.
+
+GitPitch Enterprise is delivered using Docker, the worlds leading software
+containerization platform.
 
 ## Is GitPitch for you?
 
