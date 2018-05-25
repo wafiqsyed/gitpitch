@@ -34,7 +34,7 @@ You can find detailed build instructions [here](https://github.com/gitpitch/gitp
 You can also submit bug, feature and pull-requests on this repo. If you like
 this project please show your support with a [GitHub star](https://github.com/gitpitch/gitpitch/stargazers).
 
-Your support is much appreciated, David :heart:.
+Your support is much appreciated. Cheers, David :heart:.
 
 ## What is GitPitch Pro?
 
