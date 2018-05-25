@@ -32,7 +32,9 @@ or private repo into online and offline, interactive slideshows.
 GitPitch is an open source project so you can fork, clone, and modify the source.
 You can find detailed build instructions [here](https://github.com/gitpitch/gitpitch/wiki/Server-Build-Instructions).
 You can also submit bug, feature and pull-requests on this repo. If you like
-this project please show your support with a [GitHub star](https://github.com/gitpitch/gitpitch/stargazers). Much appreciated.
+this project please show your support with a [GitHub star](https://github.com/gitpitch/gitpitch/stargazers).
+
+Your support is much appreciated, David :heart:.
 
 ## What is GitPitch Pro?
 
