@@ -27,6 +27,8 @@ The service introduces a new convention for Git users, called **PITCHME.md**.
 The GitPitch server turns **PITCHME.md** markdown files found within any public
 or private repo into online and offline, interactive slideshows.
 
+![STUNNING](assets/images/stunning.png)
+
 GitPitch is an open source project so you can fork, clone, and modify the source.
 You can find detailed build instructions [here](https://github.com/gitpitch/gitpitch/wiki/Server-Build-Instructions).
 You can also submit bug, feature and pull-requests on this repo. If you like
@@ -40,6 +42,8 @@ GitPitch Pro offers a wide range of [free](https://gitpitch.com/features) and
 enhanced [subscription](https://gitpitch.com/pro-features) features, including
 [GitPitch Desktop](https://gitpitch.com/desktop) for local development, live
 previews, and presenting directly on your Linux, Windows, or OSX desktop.
+
+![DESKTOP](assets/images/think-type-see.png)
 
 GitPitch Pro is also available as [GitPitch Enterprise](https://gitpitch.com/pricing)
 for on-premises deployment with seamless integration for GitHub Enterprise,
