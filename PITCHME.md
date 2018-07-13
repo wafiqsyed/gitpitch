@@ -30,7 +30,7 @@
 
 @snap[north]
 <br>
-<h4>@size[0.9em](Available to @color[black](everyone) on)</h4>
+<h4>@size[0.9em](For absolutely @color[black](everyone) on)</h4>
 @snapend
 
 @snap[west]
