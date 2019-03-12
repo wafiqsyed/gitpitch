@@ -261,5 +261,5 @@ The Template is a collection of high-utility slide designs available out-of-the-
 @snapend
 
 @snap[south-west raleway-medium text-white text-08]
-On GitHub @fa[github fa-font], GitLab @fa[gitlab fa-font], and Bitbucket @fa[bitbucket fa-font]
+On GitHub @fab[github], GitLab @fab[gitlab], and Bitbucket @fab[bitbucket]
 @snapend
