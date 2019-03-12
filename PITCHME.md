@@ -49,7 +49,7 @@
 
 @snap[west span-40 pro-feature-details]
 @fa[quote-left] Use GitPitch Desktop to export any slide deck to Microsoft
-PowerPoint & Office 365, Apple Keynote & Apple iCloud, Google Slides, PDF, and SlideShare.
+PowerPoint & Office 365, LibreOffice, Apple Keynote & Apple iCloud, Google Slides, PDF, and LinkedIn SlideShare.
 @snapend
 
 
